@@ -1,0 +1,28 @@
+body {
+    font-family: helvetica;
+}
+
+ul {
+    font-family: monospace;
+}
+
+li {
+    list-style: circle;
+}
+
+.list {
+    list-style: square;
+}
+
+#date {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: bold;
+}
+h1 {
+    font-family: helvetica;
+    color: darkblue;
+}
+
+/* Comentários no CSS são iguais aos comentários de várias linhas no JavaScript */
+
