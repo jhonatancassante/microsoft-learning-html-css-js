@@ -1,5 +1,5 @@
 'use strict';
-console.log('Aqui está uma mensagem escondida');
+
 // Está é uma linha única de comentários
 
 /* Aqui temos
@@ -18,3 +18,5 @@ usando getElementById('date') */
 let selectElement = document.getElementById('date');
 // A etapa final é inserir a cadeia de caracteres de data dentro do elemento selecionado com innerHTML.
 selectElement.innerHTML = formatDate;
+
+console.log('Aqui está uma mensagem escondida');
